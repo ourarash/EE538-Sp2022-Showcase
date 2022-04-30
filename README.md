@@ -10,5 +10,4 @@ This page showcases the final projects for the EE538 Course (Computing and Softw
 |Project Name| Teammates | Description |Video Link|Github Link|Slides Link|
 | --- | --- | --- | --- | --- | --- |
 | Trojan Map | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Graph Algorithm and OpenCV | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
-
-| Trojan Map | [YuanJi Qiu](www.linkedin.com/in/yuanjiqiu) | [GitHub](https://github.com/RandleH)
+| Trojan Map | [YuanJi Qiu](www.linkedin.com/in/yuanjiqiu) | [GitHub](https://github.com/RandleH)||
